@@ -2,7 +2,7 @@
 
 A very simple python Spotify downloader that downloads tracks from Spotify directly without needing external sources such as Youtube. 
 
-> ⚠️ This script is made for educational purposes. Please be aware of risks that come with stream-ripping. 
+> ⚠️  This script is made for educational purposes. Please be aware of risks that come with stream-ripping. 
 
 ## Usage
 
