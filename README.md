@@ -6,10 +6,11 @@ A very simple python Spotify downloader that downloads tracks from Spotify direc
 
 ## Prerequisite 
 
-You need to have `librespot`, `pydub`, `music_tag`, and `ffmpeg` python packages already installed. If you have `pip` you can use the following command:
+You need to have `librespot`, `pydub`, `music_tag` python packages already installed. If you have `pip` you can use the following command:
 ```py
-pip install requests librespot pydub music_tag ffmpeg
+pip install requests librespot pydub music_tag
 ```
+You will also need to have `ffmpeg` installed already. You can find the download for it [here](https://ffmpeg.org/download.html).
 
 ## Usage
 
